@@ -13,3 +13,5 @@
 3. git push -u origin master   把本地仓库内容推送到远程仓库  ，第一次推送，需要带着 -u  这个参数，
    
 4. 如果以后commit后，再次推送，只需git push
+
+5.git clone https://github.com/wingedSF/NM.git ， 拉取远程仓库上的代码
